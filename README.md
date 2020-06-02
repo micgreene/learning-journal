@@ -1,4 +1,4 @@
-# Mike Greene's Learning Journal
+# Meet Mike
 ![Image](https://user-images.githubusercontent.com/66289456/83480723-ec7a5300-a450-11ea-92b9-c7cc4506fc14.jpg)
 ### Hey folks! This is my personal repository to track my progress through CodeFellows 102!
 
@@ -31,7 +31,7 @@
 
 # Level 1 Heading: `# Text`
 ## Level 2 Heading: `## Text`
-### Level 3 Heading: `### Text
+### Level 3 Heading: `### Text`
 
 - For bulleted lists:
   - `- Text` or 
