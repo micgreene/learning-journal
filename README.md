@@ -5,6 +5,7 @@ Hey folks! This is my personal repository to track my progress through CodeFello
 Check out my other projects on GitHub [Here](https://github.com/micgreene?tab=projects)
 
 ## Growth Mindset
+![Image](https://www.flickr.com/photos/62743992@N05/6291302238)
 > "Now that I've experienced 100x Earth's gravity... I have to TRAIN in 100x Earth's gravity!" - Son Goku
 
 Growth mindset centers around believing one is capable of changing themselves in the way that they envision. A growth minded person always looks to defeat the version of themselves from yesterday in some way.
@@ -27,8 +28,3 @@ Important points to maintain a growth mindset mentality:
 - **For BOLD Words**: `**Text**`
 - _For ITALIC words_: `_Text_`
 - `For Code blocks that don't markup` (Use the backtick key above 'Tab'): `'`Text`'`
-
-
-
-
-[Link](url) and ![Image](src)
