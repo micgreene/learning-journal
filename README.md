@@ -3,7 +3,7 @@
 Hey folks! This is my personal repository to track my progress through CodeFellows 102!
 
 Looking to work with me or want to learn more about my background? Check out my linkedIn profile [Here](https://www.linkedin.com/in/michael-greene-b7879774/)
-
+WOndering what's up with this funky banner or maybe you'd just like to hear some voice acting demos? Check out my voice over business [Here}(https://www.mkgmultimedia.com/mike-greene-voice-over)
 Check out my other projects on GitHub [Here](https://github.com/micgreene?tab=projects)
 
 
