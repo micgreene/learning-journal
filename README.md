@@ -35,7 +35,7 @@
 
 - For bulleted lists:
 
-  - `- Text` or 
+  - `- Text` or
   
   + `+ Text`
   
