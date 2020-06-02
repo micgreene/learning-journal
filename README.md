@@ -22,8 +22,8 @@ Important points to maintain a growth mindset mentality:
 - ### Level 3 Heading: '### Text'
 - For bulleted lists: '- Text or + Text'
 1. For numbered lists: '1. Texta... 1. Textb... 1. Textc'
-- **For BOLD Words**: '**Text**'
-- _For ITALIC words_: '_Text_'
+- **For BOLD Words**: '**'Text'**'
+- _For ITALIC words_: '_'Text'_'
 - `For COMMENTED OUT messages`: '`Text`'
 
 
