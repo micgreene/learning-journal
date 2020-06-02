@@ -5,7 +5,7 @@ Hey folks! This is my personal repository to track my progress through CodeFello
 Check out my other projects on GitHub [Here](https://github.com/micgreene?tab=projects)
 
 ## Growth Mindset
-![Image](https://www.flickr.com/photos/62743992@N05/6291302238)
+![Image](https://github.com/micgreene/learning-journal/issues/1#issue-628891557)
 > "Now that I've experienced 100x Earth's gravity... I have to TRAIN in 100x Earth's gravity!" - Son Goku
 
 Growth mindset centers around believing one is capable of changing themselves in the way that they envision. A growth minded person always looks to defeat the version of themselves from yesterday in some way.
