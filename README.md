@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+# Mike Greene's Learning Journal
 
-You can use the [editor on GitHub](https://github.com/micgreene/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey folks! This is my personal repository to track my progress through CodeFellows 102!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me on GitHub: micgreene
 
-### Markdown
+## Growth Mindset
+> "Now that I've experienced 100x Earth's gravity... I have to TRAIN in 100x Earth's gravity!" 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
