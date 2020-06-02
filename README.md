@@ -1,6 +1,6 @@
 # Mike Greene's Learning Journal
 ![Image](https://user-images.githubusercontent.com/66289456/83480723-ec7a5300-a450-11ea-92b9-c7cc4506fc14.jpg)
-Hey folks! This is my personal repository to track my progress through CodeFellows 102!
+### Hey folks! This is my personal repository to track my progress through CodeFellows 102!
 
 + Looking to work with me or want to learn more about my background? Check out my linkedIn profile [Here](https://www.linkedin.com/in/michael-greene-b7879774/)
 
@@ -9,12 +9,13 @@ Hey folks! This is my personal repository to track my progress through CodeFello
 + Check out my other projects on GitHub [Here](https://github.com/micgreene?tab=projects)
 
 
+
 ## Growth Mindset
 > "Now that I've experienced 100x Earth's gravity... I have to TRAIN in 100x Earth's gravity!" - Son Goku
 ![Image](https://live.staticflickr.com/6228/6291302238_86e360d89f.jpg)
 
 
-Growth mindset centers around believing one is capable of changing themselves in the way that they envision. A growth minded person always looks to defeat the version of themselves from yesterday in some way.
+**Growth mindset centers around believing one is capable of changing themselves in the way that they envision. A growth minded person always looks to defeat the version of themselves from yesterday in some way.**
 
 ### Important points to maintain a growth mindset mentality:
 1. **Do not** fear failure. To be defeated is only an opportunity to understand your current weaknesses.
@@ -24,9 +25,9 @@ Growth mindset centers around believing one is capable of changing themselves in
 
 
 ## Markdown Notes (Class 1 - 6/1/20)
->Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.
+**Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.**
 
-**DO NOT FORGET THE SPACE BETWEEN THE OPERATOR AND YOUR TEXT**
+>DO NOT FORGET THE SPACE BETWEEN THE OPERATOR AND YOUR TEXT
 
 - # Level 1 Heading: `# Text`
 - ## Level 2 Heading: `## Text`
