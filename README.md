@@ -15,6 +15,7 @@ Important points to maintain a growth mindset mentality:
 1. Get _excited_ for new challenges! The hardest thing you've accomplished has now made everything easier _forever_.
 
 ## Markdown Notes
--'#': #Level 1 Heading
--'##': ##Level 2 Heading
--'###': ###Level 3 Heading
+>Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.
+- '#'Level 1 Heading
+- '##': ##Level 2 Heading
+- '###': ###Level 3 Heading
