@@ -16,6 +16,6 @@ Important points to maintain a growth mindset mentality:
 
 ## Markdown Notes
 >Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.
-- # Level 1 Heading: '#'
-- ## Level 2 Heading: '##'
-- ### Level 3 Heading: '###'
+- # Level 1 Heading: '# Text'
+- ## Level 2 Heading: '## Text'
+- ### Level 3 Heading: '### Text'
