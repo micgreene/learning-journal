@@ -42,5 +42,7 @@
 1. `1. Textc...`
 
 **For BOLD Words**: `**Text**`
+
 _For ITALIC words_: `_Text_`
+
 `For Code blocks that don't markup` (Use the backtick key above 'Tab'): `'`Text`'`
