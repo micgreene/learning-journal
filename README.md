@@ -13,3 +13,8 @@ Important points to maintain a growth mindset mentality:
 1. **Do not** fear failure. To be defeated is only an opportunity to understand your current weaknesses.
 1. Share what you make, and encourage others also brave enough to share. The fear of embarassment is synonymous with the fear of failure.
 1. Get _excited_ for new challenges! The hardest thing you've accomplished has now made everything easier _forever_.
+
+## Markdown Notes
+-'#': #Level 1 Heading
+-'##': ##Level 2 Heading
+-'###': ###Level 3 Heading
