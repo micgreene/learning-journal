@@ -34,11 +34,17 @@
 ### Level 3 Heading: `### Text`
 
 - For bulleted lists:
+
   - `- Text` or 
+  
   + `+ Text`
+  
 1. For numbered lists: 
+
 1. `1. Texta...` 
+
 1. `1. Textb...` 
+
 1. `1. Textc...`
 
 **For BOLD Words**: `**Text**`
