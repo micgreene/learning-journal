@@ -24,10 +24,9 @@ Important points to maintain a growth mindset mentality:
 1. For numbered lists: '1. Texta... 1. Textb... 1. Textc'
 - **For BOLD Words**: `**Text**`
 - _For ITALIC words_: `_Text_`
-- `For COMMENTED OUT messages`: `'`'Text'`'`
+- `For COMMENTED OUT messages`: `'`Text`'`
 
 
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
