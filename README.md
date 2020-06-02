@@ -1,5 +1,5 @@
 # Mike Greene's Learning Journal
-
+![Image](https://user-images.githubusercontent.com/66289456/83480723-ec7a5300-a450-11ea-92b9-c7cc4506fc14.jpg)
 Hey folks! This is my personal repository to track my progress through CodeFellows 102!
 
 Looking to work with me or want to learn more about my background? Check out my linkedIn profile [Here](https://www.linkedin.com/in/michael-greene-b7879774/)
