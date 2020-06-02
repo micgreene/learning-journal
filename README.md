@@ -16,18 +16,17 @@ Important points to maintain a growth mindset mentality:
 
 ## Markdown Notes
 >Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.
+**DO NOT FORGET THE SPACE BETWEEN THE OPERATOR AND YOUR TEXT**
 - # Level 1 Heading: '# Text'
 - ## Level 2 Heading: '## Text'
 - ### Level 3 Heading: '### Text'
-# Header 1
-## Header 2
-### Header 3
+- For bulleted lists: '- Text or + Text'
+1. For numbered lists: '1. Texta... 1. Textb... 1. Textc'
+- **For BOLD Words**: '**Text**'
+- _For ITALIC words_: '_Text_'
+- `For COMMENTED OUT messages`: '`Text`'
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
