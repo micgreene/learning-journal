@@ -37,7 +37,9 @@
 
   - `- Text` or
   
-  + `+ Text`
+  + `+ Text` or
+  
+  * `* Text`
   
 1. For numbered lists: 
 
