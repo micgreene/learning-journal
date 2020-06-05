@@ -21,7 +21,7 @@
     - header body footer nav div are all **Elements**
     - **Elements** possess a **Parent**/**Child** relationship with their contents. Contents have a **sibling** relationship with eachother. (Similar to OOP)
   + **Tags**
-    - opening tags: <p>
-    - closing tages: </p>
+    - opening tags: `<p>`
+    - closing tages: `</p>`
   + **Attributes**
     - language, style, href, id, class, src, rel
