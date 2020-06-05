@@ -21,8 +21,9 @@
     - header body footer nav div are all **Elements**
     - **Elements** possess a **Parent**/**Child** relationship with their contents. Contents have a **sibling** relationship with eachother. (Similar to OOP)
   + **Tags**
+    - Tags must possess an *Open Angle Bracket* `<` **and** a *Closing Angle Bracket* `>`
     - opening tags: `<p>`
     - closing tags: `</p>`
-    - Tags must possess an *Open Angle Bracket* `<` **and** a *Closing Angle Bracket* `>`
+    
   + **Attributes**
     - language, style, href, id, class, src, rel
