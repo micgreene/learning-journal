@@ -11,3 +11,9 @@
   - Remember Proximity, Closure(similar shape grouping), Continuance, White Space, Color, Borders.
   - You can differentiate between pieces of information using size, color, and style.
   - You can use grouping and similarity to help simplify the info you present.
+  
+### HTML Notes
++ **HTML (HyperTextMarkupLanguage)**
+  - Semantic HTML: name implies function (ex: nav = navigation)
+  - body
+    * sss
