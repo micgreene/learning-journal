@@ -22,6 +22,6 @@
     - **Elements** possess a **Parent**/**Child** relationship with their contents. Contents have a **sibling** relationship with eachother. (Similar to OOP)
   + **Tags**
     - opening tags: `<p>`
-    - closing tages: `</p>`
+    - closing tags: `</p>`
   + **Attributes**
     - language, style, href, id, class, src, rel
