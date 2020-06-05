@@ -23,5 +23,6 @@
   + **Tags**
     - opening tags: `<p>`
     - closing tags: `</p>`
+    - Tags must possess an *Open Angle Bracket* `<` **and** a *Closing Angle Bracket* `>`
   + **Attributes**
     - language, style, href, id, class, src, rel
