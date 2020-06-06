@@ -30,6 +30,7 @@ A file created and attached to an HTML file in order to add style and aesthetic 
 
 ### Linking to VSCode
 1. **First, ensure that an _"index.html"_ -AND- a _"style.css"_ file have both been created in VSCode and committed to your repository**
+
 1. **Next, link your .css file to your .html. In your .html fie, under "Title", include the line: **
 
 `<link rel="stylesheet" href="style.css">`
