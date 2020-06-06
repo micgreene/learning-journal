@@ -1,4 +1,6 @@
 
+# Class 6 Notes (Class 2 - 6/6/2020)
+
 ### JavaScript
 **Front end browser language used to create dynamic elements and applications**
 
