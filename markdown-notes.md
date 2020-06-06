@@ -1,4 +1,6 @@
 # Markdown Notes (Class 1 - 6/1/20)
+- [Home](https://micgreene.github.io/learning-journal/)
+
 **Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.**
 
 >Do NOT forget the space between the operator and your text!
