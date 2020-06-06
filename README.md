@@ -9,6 +9,13 @@
 + Check out my other projects on GitHub [Here](https://github.com/micgreene?tab=projects)
 
 
+### Table of Contents
++ [Growth Mindset](https://micgreene.github.io/learning-journal/)
++ [Mark Down Notes](https://micgreene.github.io/learning-journal/)
++ [HTML Notes](https://micgreene.github.io/learning-journal/)
++ [Growth Mindset](https://micgreene.github.io/learning-journal/)
++ [CSS Notes](https://micgreene.github.io/learning-journal/)
+
 
 ## Growth Mindset
 > "Now that I've experienced 100x Earth's gravity... I have to TRAIN in 100x Earth's gravity!" - Son Goku
