@@ -10,10 +10,11 @@
 
 
 ### Table of Contents
-+ [Growth Mindset](https://micgreene.github.io/learning-journal/)
++ [Growth Mindset](https://micgreene.github.io/learning-journal/growth-mindset)
 + [Mark Down Notes](https://micgreene.github.io/learning-journal/)
-+ [HTML Notes](https://micgreene.github.io/learning-journal/)
-+ [Growth Mindset](https://micgreene.github.io/learning-journal/)
++ [Text Editors and Navigating the Console](https://micgreene.github.io/learning-journal/)
++ [Git Commands](https://micgreene.github.io/learning-journal/)
++ [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/)
 + [CSS Notes](https://micgreene.github.io/learning-journal/)
 
 
