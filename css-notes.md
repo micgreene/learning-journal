@@ -28,6 +28,7 @@ A file created and attached to an HTML file in order to add style and aesthetic 
 - Value: "black" is the value of the property in this case.
 - Declaration: The property value pair.
 
+### 
 ### Linking to VSCode
 1. **First, ensure that an _"index.html"_ -AND- a _"style.css"_ file have both been created in VSCode and committed to your repository**
 
@@ -88,3 +89,4 @@ header > nav >ul >li
     background-color: darkgreen;
 
 }`
+
