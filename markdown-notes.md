@@ -3,7 +3,7 @@
 
 **Markdown is a light weight markup language. Allows creation of code using intuitive, quick commands rather than convoluted language.**
 
->Do NOT forget the space between the operator and your text!
+>Do NOT forget the space between the operator and your text! 
 
 # Level 1 Heading: `# Text`
 ## Level 2 Heading: `## Text`
