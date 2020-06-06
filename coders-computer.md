@@ -1,5 +1,5 @@
 # Notes for Class 2 (6/2/20)
-- [Home](https://micgreene.github.io/learning-journal/)
+- [Home](https://micgreene.github.io/learning-journal/) 
 
 
 ### Selecting a Text Editor
