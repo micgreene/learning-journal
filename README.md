@@ -55,4 +55,5 @@ _For ITALIC words_: `_Text_`
 
 `For Code blocks that don't markup` (Use the backtick key above 'Tab'): `'`Text`'`
 
+
 [For Links](https://micgreene.github.io/learning-journal/): `[Link Text](http://github.com)`
