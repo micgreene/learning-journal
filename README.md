@@ -14,5 +14,5 @@
 + [Mark Down Notes](https://micgreene.github.io/learning-journal/markdown-notes)
 + [Text Editors and Navigating the Console](https://micgreene.github.io/learning-journal/coders-computer)
 + [Git Commands](https://micgreene.github.io/learning-journal/)
-+ [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/)
-+ [CSS Notes](https://micgreene.github.io/learning-journal/)
++ [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/Html-and-WebDesign)
++ [CSS Notes](https://micgreene.github.io/learning-journal/css-notes)
