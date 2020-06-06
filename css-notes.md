@@ -1,4 +1,4 @@
-# Notes for Class 5 (6/6/2020)
+# Notes for Class 5 (Class 1 - 6/6/2020)
 - [Home](https://micgreene.github.io/learning-journal/)
 
 ### CSS
