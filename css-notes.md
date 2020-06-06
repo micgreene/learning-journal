@@ -27,3 +27,55 @@ A file created and attached to an HTML file in order to add style and aesthetic 
 - Property: "color" is the property
 - Value: "black" is the value of the property in this case.
 - Declaration: The property value pair.
+
+`body
+{
+    background-color: rgba(214, 233, 176, .5);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(31, 44, 4);
+}
+
+/*Header Section*/
+header
+{
+    margin: 0px auto;
+    width : 960px;
+    background-color: rgb(214, 233, 176);
+    height: 190px;
+}
+
+header > img
+{
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+    float: left;
+
+}
+
+h1
+{
+    text-align: center;
+    padding: 30px;
+    margin-right: 150px;
+}
+
+header > nav
+{
+    float: left;
+}
+
+header > nav >ul >li
+{
+    /*display: inline-block;*/
+    width: 100px;
+    border: 1px solid black;
+    text-align: left;
+    border-radius: 25px;
+    margin: 5px;
+    padding: 5px;
+    margin-right: 30px;
+    background-color: darkgreen;
+
+}`
