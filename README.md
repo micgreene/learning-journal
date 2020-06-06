@@ -11,8 +11,8 @@
 
 ### Table of Contents
 + [Growth Mindset](https://micgreene.github.io/learning-journal/growth-mindset)
-+ [Mark Down Notes](https://micgreene.github.io/learning-journal/)
-+ [Text Editors and Navigating the Console](https://micgreene.github.io/learning-journal/)
++ [Mark Down Notes](https://micgreene.github.io/learning-journal/markdown-notes)
++ [Text Editors and Navigating the Console](https://micgreene.github.io/learning-journal/coders-computer)
 + [Git Commands](https://micgreene.github.io/learning-journal/)
 + [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/)
 + [CSS Notes](https://micgreene.github.io/learning-journal/)
