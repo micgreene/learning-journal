@@ -1,4 +1,6 @@
 # Notes for Class 4 (6/4/20)
+- [Home](https://micgreene.github.io/learning-journal/)
+
 ### Process & Design
 
 + **It's important to understand who your target audience is, why they would come to your site, what information they would find, and when they are likely to return.**
