@@ -35,6 +35,8 @@ A file created and attached to an HTML file in order to add style and aesthetic 
 
   - `<link rel="stylesheet" href="style.css">`
 
+
+### CSS Code Examples
 `body
 {
     background-color: rgba(214, 233, 176, .5);
