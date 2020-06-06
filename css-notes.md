@@ -1,5 +1,5 @@
 
-# Notes for Class 5 (6.6.2020)
+# Notes for Class 5 (6/6/2020)
 
 ### CSS
 **Cascading Style Sheets**'
