@@ -16,3 +16,4 @@
 + [Git Commands](https://micgreene.github.io/learning-journal/)
 + [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/Html-and-WebDesign)
 + [CSS Notes](https://micgreene.github.io/learning-journal/css-notes)
++ [JavaScript Notes](https://micgreene.github.io/learning-journal/javascript-notes)
