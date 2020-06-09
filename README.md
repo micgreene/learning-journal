@@ -13,7 +13,7 @@
 + [Growth Mindset](https://micgreene.github.io/learning-journal/growth-mindset)
 + [Mark Down Notes](markdown-notes.md)
 + [Text Editors and Navigating the Console](https://micgreene.github.io/learning-journal/coders-computer)
-+ [Git Commands](https://micgreene.github.io/learning-journal/)
++ [Git Commands](https://micgreene.github.io/learning-journal/git-commands)
 + [HTML and Web Design Notes](https://micgreene.github.io/learning-journal/Html-and-WebDesign)
 + [CSS Notes](https://micgreene.github.io/learning-journal/css-notes)
 + [JavaScript Notes](https://micgreene.github.io/learning-journal/javascript-notes)
