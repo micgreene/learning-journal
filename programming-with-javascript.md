@@ -44,13 +44,32 @@
  - Arithmetic Operators
    + `3 * 2;`  `3 / 2;`  `3 + 2;`  `3 - 2;`
    + `++` - increment  `--` = decrement
+   + `%` - modulus (returns remainder)
       
  - String Operators
    + `greeting = 'hi ' + 'guy';`
  - Comparison Operators
  _compares two values to see if true or false then returns boolean_
-   + buy = 3 > 5;
+   + `buy = 3 > 5;` - false
  - Logical Operators
  _Combines mutiple comparison opertors and returns boolean_
-   + buy = (5 > 3) && (2 < 4);
+   + `buy = (5 > 3) && (2 < 4);` - true
       
+
+### Functions
+
+**A function is a set of instructions which may potentially receive input and then return a result.**
+Functions save time by allowing us to call code that might need to be repeated or recycled quickly instead of hard coding all scripts.
+
+When we **CALL** a function, we are requesting it to run:
+`Math.random();`
+
+A Function will often take a **PARAMETER** and give back a **RETURN VALUE**
+
+`function addUs(int a, int b){
+  result = a + b;
+  
+  return result;
+ }`
+ 
+ `addUs(3,4);` - when run, result would return 7
