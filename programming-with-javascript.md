@@ -16,7 +16,17 @@
 1. **React to Events**
   - You can specify a certain script to run in response to certain events.
   
-  
+  ### Naming Conventions
+  1. Camel Case
+    + `askName();`
+    + `var oneNumber;`
+  2. Kebab Case
+    + `ask-name();`
+    + `var one-number-case;`
+  3. Snake Case
+    + `ask_name();`
+    + `var one_number_case;`
+    
   ### Solving Coding Problems
   Approach each situation uniquely:
   1. **Define the Goal**
