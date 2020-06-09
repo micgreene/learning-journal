@@ -67,8 +67,7 @@ When we **CALL** a function, we are requesting it to run:
 A Function will often take a **PARAMETER** and give back a **RETURN VALUE**
 
 `function addUs(int a, int b){
-  result = a + b;
-  
+  result = a + b;  
   return result;
  }`
  
