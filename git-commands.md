@@ -1,40 +1,48 @@
-Setting up a Git Repository
-Importing
+# Notes for Class 3 (6/3/20)
+
+
+## Git Commands
+
+
+### Setting up a Git Repository
+
+
+**Importing**
 To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
 
-Switch to the target project’s directory
-Example:
+1.Switch to the target project’s directory
+  -  Example:
+`$ cd test (cd = change directory)`
+1. Use the git init command
+`$ git init`
+_Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced._
 
-$ cd test (cd = change directory)
-Use the git init command
-$ git init
-Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
-To start tracking these repository files, perform an initial commit by typing the following:
-$ git add *.c
-$ git add LICENSE
-$ git commit -m “any message here”
-Now, your files are tracked and there’s an initial commit. We will discuss the particular commands in detail soon.
+To start **tracking** these repository files, perform an initial commit by typing the following:
+1. `$ git add *.c`
+1. `$ git add LICENSE`
+1. `$ git commit -m “any message here”`
+Now, your files are tracked and there’s an initial commit. 
 
-Cloning
+
+### Cloning
 You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
 
-$ git clone https://github.com/test
+`$ git clone https://github.com/test`
+
 By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
 
-To clone a repository into a directory with another name of your choosing, use the following command format:
+**To clone a repository into a directory with another name of your choosing, use the following command format:**
 
-$ git clone https://github.com/test mydirectory
+`$ git clone https://github.com/test mydirectory`
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
-Workflow
-Local Repository Structure
+### Local Repository Structure
 The local Git repository has three components:
 
-Working Directory: The actual files reside here.
-Index: The area used for staging
-Head: Points to the most recent commit
-image03
+- **Working Directory**: The actual files reside here.
+- **Index**: The area used for staging
+- **Head**: Points to the most recent commit
 
 Saving Changes
 All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
