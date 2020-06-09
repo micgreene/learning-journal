@@ -28,28 +28,29 @@
     - Go through multiple iterations until optimal efficiency is discovered.
     
     
-    ### Expressions
-    An _expression_ evaluates into (results in) a single value. 
-    There are two types:
+ ### Expressions
+ An _expression_ evaluates into (results in) a single value. 
+ 
+ There are two types:
     
-    1. Single Assignment Expressions
-      - Example: `var string = 'strang';`
-    2. Expressions That Use Two or More Values
-      - Example: `var area = 3 * 2;
+ 1. Single Assignment Expressions
+   - Example: `var string = 'strang';`
+ 2. Expressions That Use Two or More Values
+   - Example: `var area = 3 * 2;
       
-    ### Operators
-    - Assignment Operators
-      + `this = 'that';`
-    - Arithmetic Operators
-      + `3 * 2;`  `3 / 2;`  `3 + 2;`  `3 - 2;`
-      + `++` - increment  `--` = decrement
+ ### Operators
+ - Assignment Operators
+   + `this = 'that';`
+ - Arithmetic Operators
+   + `3 * 2;`  `3 / 2;`  `3 + 2;`  `3 - 2;`
+   + `++` - increment  `--` = decrement
       
-    - String Operators
-      + `greeting = 'hi ' + 'guy';`
-    - Comparison Operators
-    _compares two values to see if true or false then returns boolean_
-      + buy = 3 > 5;
-    - Logical Operators
-    _Combines mutiple comparison opertors and returns boolean_
-      + buy = (5 > 3) && (2 < 4);
+ - String Operators
+   + `greeting = 'hi ' + 'guy';`
+ - Comparison Operators
+ _compares two values to see if true or false then returns boolean_
+   + buy = 3 > 5;
+ - Logical Operators
+ _Combines mutiple comparison opertors and returns boolean_
+   + buy = (5 > 3) && (2 < 4);
       
