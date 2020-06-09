@@ -81,3 +81,5 @@ A Function will often take a **PARAMETER** and give back a **RETURN VALUE**
   var sizes = [area, volume];
   return sizes;
  }`
+ 
+ `getSizes(2,4,4);` - so slot [0] of array _sizes_ would return: `8, 32`
