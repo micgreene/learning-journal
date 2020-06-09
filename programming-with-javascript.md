@@ -72,3 +72,12 @@ A Function will often take a **PARAMETER** and give back a **RETURN VALUE**
  }`
  
  `addUs(3,4);` - when run, result would return 7
+ 
+ We can return **multiple values** using **ARRAYS**:
+ 
+ ` function getSize(width, height, depth){
+  var area = width * height;
+  var volume = width * height * depth;
+  var sizes = [area, volume];
+  return sizes;
+ }`
