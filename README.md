@@ -18,3 +18,4 @@
 + [CSS Notes](https://micgreene.github.io/learning-journal/css-notes)
 + [Intro to JavaScript](https://micgreene.github.io/learning-journal/javascript-notes)
 + [Programming with JavaScript](https://micgreene.github.io/learning-journal/programming-with-javascript)
++ [Operators and Loops](https://micgreene.github.io/learning-journal/operators-and-loops)
